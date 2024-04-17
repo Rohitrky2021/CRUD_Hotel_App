@@ -10,7 +10,7 @@
 **1. Clone the Repository and Install Dependencies:**
 
 ```bash
-git clone https://github.com/Rohitrky2021/Hotel-Management
+git clone  https://github.com/Rohitrky2021/CRUD_Hotel_App
 cd cd Hotel-Management
 npm install
 ```
